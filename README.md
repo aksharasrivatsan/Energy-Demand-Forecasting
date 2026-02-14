@@ -2,7 +2,7 @@
 Developed a comprehensive Deep Learning framework to address the complexities of energy demand forecasting across different temporal scales. This project implements a Three-Tier Architecture that transitions from immediate grid operations to long-term national strategic planning by utilizing three distinct global datasets.
 
 Multi-Horizon Energy Load Forecasting: A Three-Tier LSTM Framework
-This repository contains a comprehensive deep learning solution for electrical load forecasting, validated across three distinct global regions and temporal horizons. The project was presented at the ICSEES-2026 conference.
+This repository contains a comprehensive deep learning solution for electrical load forecasting, validated across three distinct global regions and temporal horizons. The project was presented at the International Conference on Sustainable and Efficient Energy Solutions (ICSEES) 2026, AICTE.
 
 Project Overview
 Traditional forecasting models often struggle with the non-linear complexity of energy grids. This project addresses the gap by implementing a Three-Tier Architecture, training specialized LSTM models for Operational, Seasonal, and Strategic forecasting.
